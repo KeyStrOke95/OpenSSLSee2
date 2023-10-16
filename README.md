@@ -1,2 +1,2 @@
 # OpenSSLSee2
-Establish undetected C2 session from a Windows clients to the OpenSSL server
+Establish undetected C2 sessions from a Windows client to the OpenSSL server
